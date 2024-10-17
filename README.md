@@ -83,7 +83,8 @@ s.send("acknowledgement recived from the server".encode())
 ~~~
 
 ## Output :
-![Uploading Screenshot 2024-10-17 205516.png…]()
+![Screenshot 2024-10-17 205516](https://github.com/user-attachments/assets/486c4334-93a0-4097-a9eb-65902d4341ba)
+
 
 
 
